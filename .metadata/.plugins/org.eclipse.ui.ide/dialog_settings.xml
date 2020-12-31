@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="C:\Users\soonho\Desktop\it\국비교육\Crawling\workspace\Melon"/>
+		<item value="C:\Users\soonho\Desktop\it\국비교육\Crawling\Melon"/>
+	</list>
+	<section name="SmartImportWizard">
+		<item value="false" key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN"/>
+		<item value="false" key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED"/>
+		<item value="true" key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES"/>
+		<item value="true" key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\Users\dbstn\Desktop\MelonPractice"/>
+		</list>
+	</section>
+	<section name="WORKBENCH_SETTINGS">
+		<list key="ENABLED_TRANSFERS">
+		</list>
+	</section>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item value="609" key="DIALOG_X_ORIGIN"/>
+		<item value="274" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>
